@@ -20,8 +20,6 @@ Grama Khata is a modern Android micro-finance ledger app built for small shopkee
 - Android Studio
 - Material 3
 
-## 📸 Screenshots
-Coming soon...
 
 ## 🚀 Future Improvements
 - Firebase backup
